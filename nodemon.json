@@ -4,17 +4,9 @@
         "DB_USER":"ajaysingh",
         "DB_PASSWORD":"H7YIrrfV8xih1JaC",
         "DB_NAME":"ajaymart",
-        "JWT_SECRET":"hjdshghghtghjdb",
+        "JWT_SECRET":"hjdshghghtghjdb"
         
-        "BT_ENVIRONMENT": {
-            
-            "value": "Sandbox"
-          },
-        "BT_MERCHANT_ID":"tqmvny993xx4wsvr",
-        "BT_PUBLIC_KEY":"9ktdzqtrd39cmzxs",
-        "BT_PRIVATE_KEY":"5661812a48875dd8c2584445eea744e4",
-        "MAILGUN_API":"key-a64a28db1768e3a1e0c886093350287f",
-        "MAILGUN_DOMAIN":"sandbox266e030958a34e17a7d863a58c9ad3dd.mailgun.org"
+        
 
         
          
